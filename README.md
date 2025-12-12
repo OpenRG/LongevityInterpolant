@@ -1,2 +1,2 @@
 # LongevityInterpolant
-Data and code for longevity interpolants
+Data and code for longevity interpolants.
